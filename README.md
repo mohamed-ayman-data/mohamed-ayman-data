@@ -26,7 +26,7 @@ Below are curated projects that demonstrate my ability to handle the entire data
 | **☕ Coffee Shop Sales Analysis** | `Excel` `PivotTables` `Data Visualization` | Cleaned and analyzed a year's worth of sales data to identify peak hours, best-selling products, and sales trends. | [e.g., Recommended staffing schedules and promotional strategies for low-performing products.] |
 | **👥 HR Analytics: Employee Attrition** | `Excel` `Data Modeling` `KPIs` | Built a dynamic Excel dashboard to analyze factors influencing employee attrition. | [e.g., Discovered key drivers of attrition related to job role, overtime, and satisfaction levels.] |
 | **🍕 Restaurant Orders Analysis** | `SQL` `PostgreSQL` `CTEs` `JOINs` | Wrote complex SQL queries to analyze order patterns, popular menu items, and customer behavior. | [e.g., Queried the most profitable combo meals and identified peak ordering days/times.] |
-| **🏭 Factory Production Analysis** | `SQL` `Window Functions` `Aggregations` | [*Describe the project once it's done*] | [*List the key insights once you have them*] |
+| **🏭 Factory Production Analysis** | `SQL` `Window Functions` `Aggregations` | [*Describe the project once it's done*] | [*List the key insights once done*] |
 
 ---
 
