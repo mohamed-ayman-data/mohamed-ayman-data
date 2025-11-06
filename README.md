@@ -39,6 +39,6 @@ mohamed-ayman-data |
 ### 📫 Let's Connect!
 
 I am always open to discussing data, opportunities, or potential collaborations.
-*   LinkedIn: [Your LinkedIn Profile URL]
-*   Email: [mohmedaymn2025@gmail.com](https://www.linkedin.com/in/mohamed-ayman-114452325/)
+*   LinkedIn: [https://www.linkedin.com/in/mohamed-ayman-114452325/]
+*   Email: [mohmedaymn2025@gmail.com]
 
