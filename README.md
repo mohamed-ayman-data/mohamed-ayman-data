@@ -38,7 +38,33 @@ mohamed-ayman-data |
 
 ### 📫 Let's Connect!
 
-I am always open to discussing data, opportunities, or potential collaborations.
-*   LinkedIn: [https://www.linkedin.com/in/mohamed-ayman-114452325/]
-*   Email: [mohmedaymn2025@gmail.com]
+---
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mohamed-ayman-data/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/mohamed-ayman-data" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Email -->
+  <a href="mailto:mohmedaymn2025@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Let's collaborate on data-driven solutions!</i>
+</p>
+
+<hr>
+<p align="center">
+  <sub>📊 Data Analyst | 📈 Business Intelligence | 🎯  SQL Expert</sub>
+</p>
 
