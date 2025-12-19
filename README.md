@@ -36,12 +36,6 @@ mohamed-ayman-data |
 
 ---
 
-### 📫 Let's Connect!
-
----
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
